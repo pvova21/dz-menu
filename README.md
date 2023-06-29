@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# dz-menu
+
+[![Build status](https://ci.appveyor.com/api/projects/status/rmxp18ecqru580v5?svg=true)](https://ci.appveyor.com/project/pvova21/dz-menu)
+
+## [GitHub Pages](https://pvova21.github.io/dz-menu/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
